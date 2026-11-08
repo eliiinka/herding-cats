@@ -1,0 +1,8 @@
+qiskit[visualization]==2.6.1
+qiskit-aer==0.18.0
+qiskit-ibm-runtime==0.51.0
+numpy==2.5.4
+matplotlib==3.11.2
+nbformat==5.11.1
+pylatexenc==2.11
+jupyterlab==4.6.4
