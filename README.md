@@ -9,6 +9,7 @@ processor: first on a realistic simulator, then on the real **ibm_kingston**.
 | `herding_cats_challenge.ipynb` | The challenge: Missions 0–8, start here |
 | `herding_cats.py` | Toolkit used by the notebook (keep it in the same folder) |
 | `PITCH.md` | What to put in your 5-minute pitch deck |
+| `Qiskit_Fall-Fest_2026_Template.pptx` | Optional slide template for your pitch deck |
 
 ## Before the event (please!)
 1. Python 3.10–3.13. We recommend a fresh virtual environment, so these versions don't clash with
@@ -36,3 +37,8 @@ per person per 28 days, and queues can be long). Final hardware job submitted by
 By **20:00**, one person per team posts the executed notebook (`team_<name>.ipynb`),
 `submission_<team>.json` and `pitch_<team>.pdf` or `.pptx` (a 5-minute deck, see `PITCH.md`) in the organizers'
 Discord channel. The deck is not scored, but the winning team presents it at the award ceremony.
+
+## License
+Licensed under the Apache License 2.0, see `LICENSE`. The exception is
+`Qiskit_Fall-Fest_2026_Template.pptx`, which comes from Qiskit Fall Fest 2026 and is
+under the MIT License, see `LICENSE-TEMPLATE`.

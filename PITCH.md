@@ -8,6 +8,7 @@ but the winners are only known after the overnight judging, so everyone prepares
 * `pitch_<team>.pdf` or `pitch_<team>.pptx`, **by 20:00**, posted in the organizers' Discord channel together with your notebook and `submission_<team>.json`
   (`<team>` as in your JSON file name, e.g. `pitch_Hardware_Heroes.pdf`).
 * PDF or PowerPoint (`.pptx`), made with any tool (PowerPoint, Google Slides, Keynote, LaTeX, ...). PDF is the safest choice: fonts and layout look the same on the presentation laptop.
+* Want a head start on the design? You can use the Qiskit Fall Fest slide template in this repository, `Qiskit_Fall-Fest_2026_Template.pptx`. It's optional.
 * Hardware results came in after 20:00? Post an updated deck with them, until 21:00.
 
 ## Suggested structure (5–6 slides, ~1 minute each)
